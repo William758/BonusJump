@@ -28,7 +28,7 @@ namespace TPDespair.BonusJump
 
 	public class BonusJumpPlugin : BaseUnityPlugin
 	{
-		public const string ModVer = "1.0.0";
+		public const string ModVer = "1.1.0";
 		public const string ModName = "BonusJump";
 		public const string ModGuid = "com.TPDespair.BonusJump";
 
